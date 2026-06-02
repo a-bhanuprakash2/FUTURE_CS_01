@@ -1,6 +1,6 @@
 # FUTURE_CS_01
 
-# Web Application Vulnerability Assessment Portfolio
+# Vulnerability Assessment Report For a Live Website 
 
 ## Project Overview
 This repository hosts a formal security vulnerability assessment performed on the public demonstration application `https://testfire.net`. The project showcases standard engineering workflows across network service mapping, automated application auditing, and manual client-side inspection patterns.
