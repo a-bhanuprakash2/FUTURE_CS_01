@@ -14,5 +14,4 @@ This repository hosts a formal security vulnerability assessment performed on th
 1. **Information Leakage:** Broadcasts explicit technology stack signatures (`Apache-Coyote/1.1`).
 2. **Defensive Configuration Absence:** Complete lack of anti-clickjacking (`X-Frame-Options`) and injection protection infrastructure policies.
 
-## Project Deliverables
-* [Click Here to View the Full PDF Assessment Report](./Vulnerability Assessment Report.pdf)
+
